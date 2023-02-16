@@ -66,7 +66,7 @@ UPDATE event_plans SET guest_list = 400 WHERE event_date = '17-03-23'
 DELETE FROM event_plans Where event_date='17-03-23' 
 ```
 
-## *Storing Data In Json Format*
+## *3.Storing Data In Json Format*
 
 ```json
 {
