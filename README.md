@@ -2,6 +2,13 @@
 
 # *Destination Wedding Events Planning System*
 ***
+## *Event Requirements*
+- Event Date
+- Event Location
+- Timings
+- Guest List
+- Budget
+- Themes
 ## 1. *Storing Event Data in Table Format*
 ***
 | Event Date | Event Location | Timings | Guest List | Budget | Themes |
