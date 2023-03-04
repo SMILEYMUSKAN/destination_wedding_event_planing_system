@@ -16,7 +16,7 @@
 | 17-03-2023| Bharath Gardens, Hyderabad| Morning 8:00 am|600|10000000|Haldi,Mehndi,sangeeth| 
 | 20-03-2023|Udaipur, Rajasthan|Afternoon 12:00 PM|500|60,00000|Mehndi,sangeeth|
 | 22-03-2023|Agra, Uttar Pradesh| Morning 10:00 am|900|20000000| Haldi,Mehndi,Sangeeth,Bachelor Party|
-|25-03-2023|Mussoorie, Uttarakhand| Morning 9:00 am - Evening 8:00 Pm|1000 | 30000000 Haldi,Mehndi,sangeeth,party,cake cutting|
+|25-03-2023|Mussoorie, Uttarakhand| Morning 9:00 am - Evening 8:00 Pm|1000 | 30000000 |Haldi,Mehndi,sangeeth,party,cake cutting|
 ***
 ## 2. *Storing Data in Mysql*
 ***
